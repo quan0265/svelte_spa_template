@@ -1,0 +1,3 @@
+- dùng css, js global 
+    - phải config thêm plugin hoặc dùng php,.. để minify css global
+    - nhúng đường dẫn vào file app.html
